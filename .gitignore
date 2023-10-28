@@ -2,3 +2,6 @@
 *.xlsx
 
 BTL.py
+*.pptx
+*.docx
+*.pdf
