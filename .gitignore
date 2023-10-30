@@ -1,4 +1,2 @@
 *.csv
-*.xlsx
-
-BTL.py
+*.joblib
